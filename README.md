@@ -1,4 +1,4 @@
-# tossGameTgBot is for those who find it difficult to make a decision
+# TossGameTgBot is for those who find it difficult to make a decision
 A bot for those who make decisions based on coin toss. This is a way of making a decision. The bot can randomly show you the side of a coin. 
 # Link to my bot: https://t.me/tossCoinGameBot
 
