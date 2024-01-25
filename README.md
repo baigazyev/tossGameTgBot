@@ -9,12 +9,12 @@ A bot for those who make decisions based on coin toss. This is a way of making a
 # Function: 
 Toss the coin and give result.
 # Tools and Libraries:
-Lombok
-Maven
-Telegrambots
+Lombok</br>
+Maven</br>
+Telegrambots</br>
 # Dependencies:
-Spring-boot-starter
-Spring-boot-starter-test
+Spring-boot-starter </br>
+Spring-boot-starter-test</br>
 # Installation
 Clone this repository.
 
